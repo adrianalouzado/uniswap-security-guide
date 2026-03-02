@@ -1,6 +1,6 @@
 # Module 02: Swapping Tokens (Swap)
 
-If you have made it this far, you already have your digital vault configured. Now, let's use it for its main function: swapping crypto assets within the blockchain (On-Chain). In the world of decentralized finance, we call this exchange a swap.
+If you have made it this far, you already have your digital vault configured. Now, let's use it for its main function: swapping crypto assets within the blockchain (On-Chain). In the world of DeFi, this type of exchange is called a swap.
 
 ### The initial trigger: how does the money get here? (Buy button)
 
